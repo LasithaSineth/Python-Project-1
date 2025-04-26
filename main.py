@@ -4,7 +4,7 @@ from rich.prompt import Prompt
 from bank_operator import bank_operator
 
 console = Console()
-
+print("dfadsfdsaf")
 
 def menu():
     while True:
